@@ -11,9 +11,9 @@ Output will go from:
 
 
 to: 
-![visual representation of bubble sorting](/bubbleMovie/bubble_0276.png)
+![visual representation of bubble sorting](/bubbleMovie/bubble_0287.png)
 
 
 
 the actual vid should look like:
-![video representation of bubble sorting](/bubbleAnimation30Elements.mov)
+![video representation of bubble sorting](/bubble.gif)
